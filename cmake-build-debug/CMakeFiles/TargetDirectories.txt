@@ -1,0 +1,3 @@
+/Users/lovejoy/Developer/CPP/ChangeColor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lovejoy/Developer/CPP/ChangeColor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lovejoy/Developer/CPP/ChangeColor/cmake-build-debug/CMakeFiles/ChangeColor.dir
